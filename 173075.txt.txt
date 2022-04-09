@@ -39,3 +39,14 @@ git commit -am "Modify item #4 and add item #6"
 
 20. git checkout master 
 git merge branch1
+
+21. // se javi konflikt koj go reshiv so prvite dve komandi, tretata e baranjeto 21.   
+git add shopping_list.txt   
+git commit 
+git merge branch2
+
+22. git add 173075.txt.txt
+git commit -m "Add docs"
+
+23. git push 
+ 
