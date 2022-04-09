@@ -2,4 +2,4 @@ milk x 1
 cookies x4
 bananas x2
 strawberry x1kg
-coffee x1
+coffee x5
