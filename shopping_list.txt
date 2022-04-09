@@ -1,5 +1,11 @@
 milk x 1
 cookies x8
 bananas x2
+<<<<<<< HEAD
 strawberry x1kg
 coffee x5
+=======
+strawberry chocolate x500gr
+coffee x1
+chocolate milk x3
+>>>>>>> branch2
