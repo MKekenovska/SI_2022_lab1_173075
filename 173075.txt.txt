@@ -1,0 +1,41 @@
+4. git clone https://github.com/MKekenovska/SI_2022_lab1_173075.git
+cd SI_2022_lab1_173075
+git config --global user.name "MKekenovska"
+git config --global user.email "Marija.Kekenovska@students.finki.ukim.mk"
+
+5. nano shopping_list.txt
+git add shopping_list.txt
+git commit -m "Add 5 items to the shopping list"
+
+6. nano shopping_list.txt
+git add shopping_list.txt
+git commit -m "Add quantities to the items"
+
+7. git branch branch1
+git branch branch2
+
+9. git push
+
+10. git checkout branch1
+
+11. nano shopping_list.txt
+git commit -am "Change quantity of item #5"
+
+12. git checkout master
+
+13. nano shopping_list.txt
+git commit -am "Change quantity of item #2"
+
+14. git push -u origin branch1
+git push -u origin master
+
+15. git checkout branch2
+
+16. nano shopping_list.txt
+git commit -am "Modify item #4"
+
+18. nano shopping_list.txt
+git commit -am "Modify item #4 and add item #6"
+
+20. git checkout master 
+git merge branch1
